@@ -1,0 +1,2 @@
+defmodule Rif do
+end

@@ -1,0 +1,54 @@
+<div class="gridster">
+  <ul>
+    <li data-row="1"
+        data-col="1"
+        data-sizex="1"
+        data-sizey="1">
+      <div class="widget-list widget-job time-took"
+        data-unordered="true"
+        data-widget="Text"
+        data-source="rif_icoty"
+        data-title="Интернет компания года"></div>
+    </li>
+    <li data-row="1"
+        data-col="1"
+        data-sizex="1"
+        data-sizey="1">
+      <div class="widget-list widget-job time-took"
+        data-unordered="true"
+        data-widget="Text"
+        data-source="rif_our_site"
+        data-title="Лучший корпоративный сайт"></div>
+    </li>
+    <li data-row="1"
+        data-col="1"
+        data-sizex="1"
+        data-sizey="1">
+      <div class="widget-list widget-job time-took"
+        data-unordered="true"
+        data-widget="Text"
+        data-source="rif_vtt_site"
+        data-title="Лучший сайт(ВТТ)"></div>
+    </li>
+    <li data-row="1"
+        data-col="1"
+        data-sizex="1"
+        data-sizey="1">
+      <div class="widget-list widget-job time-took"
+        data-unordered="true"
+        data-widget="Text"
+        data-source="rif_sm_site"
+        data-title="Лучший сайт(Стар И Млад)"></div>
+    </li>
+    <li data-row="1"
+        data-col="1"
+        data-sizex="1"
+        data-sizey="1">
+      <div class="widget-list widget-job time-took"
+        data-unordered="true"
+        data-widget="Text"
+        data-source="rif_nik_site"
+        data-title="Лучший сайт (Никитинский)"></div>
+    </li>
+  </ul>
+</div>
