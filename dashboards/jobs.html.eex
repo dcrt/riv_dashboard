@@ -4,7 +4,7 @@
         data-col="1"
         data-sizex="1"
         data-sizey="1">
-      <div class="widget-list widget-job time-took"
+      <div class="widget-text widget-job time-took"
         data-unordered="true"
         data-widget="Text"
         data-source="rif_icoty"
