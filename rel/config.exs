@@ -47,7 +47,10 @@ release :rif do
     :httpoison,
     :plug,
     :poison,
-    :eex
+    :eex,
+    :kitto,
+    :httpotion,
+    :floki
   ]
   set plugins: [Kitto.CompileAssetsTask]
   set overlays: [
