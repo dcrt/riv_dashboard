@@ -1,6 +1,6 @@
 use Kitto.Job.DSL
 
-job :rif_icoty, every: :hour do
+job :rif_icoty, every: :minute do
   url = "http://2017.rifvrn.ru/premia/works/decart-it-production-127.html"
   html = HTTPotion.get url
   res = Floki.find(html.body, "#voteCounter") |> Floki.text
