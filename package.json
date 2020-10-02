@@ -18,7 +18,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "webpack-dev-server": "^1.14.1"
+    "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
     "kitto": "file:deps/kitto",
