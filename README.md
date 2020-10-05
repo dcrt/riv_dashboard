@@ -1,5 +1,5 @@
 # Rif
-
+## deprecated, not working
 To start your Dashboard:
 
   * Install dependencies with `mix deps.get`
